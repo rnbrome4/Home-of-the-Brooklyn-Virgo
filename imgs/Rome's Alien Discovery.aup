@@ -1,0 +1,184 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Rome&apos;s Alien Discovery_data" version="1.3.0" audacityversion="2.2.1" sel0="0.0000000000" sel1="28.6019727907" vpos="0" h="0.0000000000" zoom="79.5749306054" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TITLE" value="Alien Discovery"/>
+		<tag name="ARTIST" value="Rome Negron"/>
+	</tags>
+	<wavetrack name="alien-spaceship_daniel_simion" channel="0" linked="1" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="741161">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008ee.au" len="262144" min="-0.11217" max="0.112036" rms="0.034557"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00004f6.au" len="262144" min="-0.112202" max="0.112046" rms="0.030548"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000840.au" len="216873" min="-0.112167" max="0.112057" rms="0.032448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="alien-spaceship_daniel_simion" channel="1" linked="0" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="741161">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000503.au" len="262144" min="-0.112051" max="0.112187" rms="0.042764"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000a20.au" len="262144" min="-0.112055" max="0.11218" rms="0.038076"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000a01.au" len="216873" min="-0.112069" max="0.11218" rms="0.040592"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hiking A Trail-SoundBible.com-589916437 (1)" channel="0" linked="1" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="922843">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008fe.au" len="262144" min="-0.39959" max="0.374294" rms="0.026266"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00001ad.au" len="262144" min="-0.356582" max="0.616694" rms="0.026979"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000c33.au" len="262144" min="-0.202627" max="0.147114" rms="0.024521"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000f6c.au" len="136411" min="-0.143635" max="0.124836" rms="0.024932"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="20.92614512" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="447">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d45.au" len="447" min="-0.048061" max="0.036188" rms="0.004515"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hiking A Trail-SoundBible.com-589916437 (1)" channel="1" linked="0" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="922843">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b90.au" len="262144" min="-0.391533" max="0.31306" rms="0.026699"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000c9d.au" len="262144" min="-0.474384" max="0.413861" rms="0.027799"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000570.au" len="262144" min="-0.271091" max="0.256799" rms="0.02391"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000689.au" len="136411" min="-0.138482" max="0.182061" rms="0.023705"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="20.92614512" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="447">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ed7.au" len="447" min="-0.062222" max="0.037178" rms="0.005899"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Inhaling Loudly-SoundBible.com-1196676385" channel="2" linked="0" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="32000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="2.73203125" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="19722">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000312.au" len="19722" min="-0.223872" max="0.192382" rms="0.039534"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="10838408_MotionElements_male-heavy-breathing_preview" channel="0" linked="1" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="21.48390023" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90826">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000122.au" len="90826" min="-0.125801" max="0.115998" rms="0.017576"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="10838408_MotionElements_male-heavy-breathing_preview" channel="1" linked="0" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="21.48390023" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90826">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008cf.au" len="90826" min="-0.099039" max="0.093124" rms="0.013777"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="9012207_MotionElements_door-slam_preview" channel="0" linked="1" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="21.11041103" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="16471">
+				<waveblock start="0">
+					<simpleblockfile filename="e000018a.au" len="16471" min="-0.9645" max="0.978073" rms="0.182641"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="9012207_MotionElements_door-slam_preview" channel="1" linked="0" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="21.11041103" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="16471">
+				<waveblock start="0">
+					<simpleblockfile filename="e000011a.au" len="16471" min="-0.964492" max="0.978083" rms="0.182642"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Water Splash-SoundBible.com-800223477" channel="0" linked="1" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="23.54344671" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="27371">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004cc.au" len="27371" min="-0.579611" max="0.880082" rms="0.035114"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Water Splash-SoundBible.com-800223477" channel="1" linked="0" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="23.54344671" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="27371">
+				<waveblock start="0">
+					<simpleblockfile filename="e000095a.au" len="27371" min="-0.63041" max="0.891251" rms="0.046507"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Slow Breathing-SoundBible.com-603073868" channel="0" linked="1" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="24.16410431" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="195710">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005c9.au" len="195710" min="-0.151259" max="0.135908" rms="0.019694"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Slow Breathing-SoundBible.com-603073868" channel="1" linked="0" mute="0" solo="0" height="81" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="24.16410431" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="195710">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000801.au" len="195710" min="-0.158489" max="0.14294" rms="0.020264"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
